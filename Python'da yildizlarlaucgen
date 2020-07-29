@@ -1,0 +1,8 @@
+lenghtTriangle = int(input("Üçgenin uzunluğu için bir tam sayı girin: "))
+
+start = 0
+for i in range(lenghtTriangle):
+    start = start + 1
+    print(start*"*")
+
+#Mehmet Temiz tarafından yazılmıştır.
